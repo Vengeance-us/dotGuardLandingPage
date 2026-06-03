@@ -131,7 +131,7 @@ export default function App() {
           {/* Full-size Logo (Borderless, 200% larger, rounded edges) */}
           <div className="flex items-center justify-center h-48 w-48 md:h-56 md:w-56 rounded-[2.5rem] overflow-hidden hover:scale-105 transition-transform duration-300 select-none shrink-0 mb-4 shadow-[0_12px_40px_rgba(0,0,0,0.06)] bg-white/50">
             <img 
-              src="logo/logo.png" 
+              src="/logo/logo.png" 
               alt=".dot Guard" 
               className="h-full w-full object-cover animate-fade-in rounded-[2.5rem]"
               referrerPolicy="no-referrer"

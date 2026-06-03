@@ -1,0 +1,6 @@
+{
+  "name": ".dot Guard",
+  "description": "Validate your .env file against .env.example before you deploy. Landing page and interactive playground validator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
